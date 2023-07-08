@@ -62,7 +62,7 @@
 }
 
 #completions table {
-    font-size: 1rem;
+    font-size: 2 rem;
     font-weight: 210;
     border-spacing: 0;
     table-layout: fixed;
@@ -99,7 +99,7 @@
 
 #completions .HistoryCompletionSource table {
     width: 100%;
-    font-size: 11pt;
+    font-size: 9pt;
     border-spacing: 0;
     table-layout: fixed;
 }
