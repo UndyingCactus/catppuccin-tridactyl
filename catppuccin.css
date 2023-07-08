@@ -62,7 +62,7 @@
 }
 
 #completions table {
-    font-size: 2rem;
+    font-size: 2rem !important;
     font-weight: 210;
     border-spacing: 0;
     table-layout: fixed;
